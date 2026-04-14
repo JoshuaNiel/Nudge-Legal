@@ -1,248 +1,138 @@
-# Privacy Policy
+# Terms and Conditions
 
 Last updated: April 14, 2026
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Please read these Terms and Conditions carefully before using the Nudge application. By accessing or using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service.
 
-We use Your Personal Data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+---
 
 ## Interpretation and Definitions
 
-### Interpretation
+- **Application** — Nudge, the iOS software program provided by the Company.
+- **Company** — Nudge (referred to as "We", "Us", or "Our").
+- **Device** — any device used to access the Service, such as an iPhone or iPad.
+- **Service** — the Application.
+- **You** — the individual using the Service.
 
-The words whose initial letters are capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+---
 
-### Definitions
+## About the Service
 
-For the purposes of this Privacy Policy:
+Nudge is a screen time accountability application for iOS. The Service helps users set screen time goals, track daily app usage, and share progress with accountability friends via SMS.
 
-- __Account__ means a unique account created for You to access our Service or parts of our Service.
-- __Affiliate__ means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+When you add a friend, Nudge sends them a consent SMS asking permission to receive accountability updates on your behalf. Friends who consent may receive periodic SMS messages ("nudges") containing brief screen time reports and a prompt to respond with encouragement or a check-in message. Friends who do not consent or who later opt out will not receive messages.
 
-- __Application__ refers to Nudge, the software program provided by the Company.
+---
 
+## SMS Messaging Program
 
+**Program name:** Nudge Accountability
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Privacy Policy) refers to Nudge.
+**Program description:** Nudge sends SMS messages to friends you designate as accountability partners. Messages include screen time reports and prompts for a response. Message delivery is triggered by screen time events you configure in the app (e.g. goal breaches, usage thresholds, or daily summaries).
 
+**Message frequency:** Message frequency varies based on your usage and the triggers you configure. Friends may receive up to 10 messages per day from a single Nudge user.
 
+**Message and data rates:** Message and data rates may apply. Contact your wireless carrier for details about your plan.
 
-- __Country__ refers to: Utah,  United States
+**Supported carriers:** Major U.S. carriers are supported. Nudge is not responsible for delayed or undelivered messages due to carrier limitations.
 
-- __Device__ means any device that can access the Service such as a computer, a cell phone or a digital tablet.
+### Opt-Out
 
+To stop receiving SMS messages from Nudge at any time, reply **STOP** to any message. You will be removed from all Nudge messaging immediately. No further messages will be sent to your number unless you explicitly re-consent.
 
+### Help
 
-- __Personal Data__ (or "Personal Information") is any information that relates to an identified or identifiable individual.
+For assistance, reply **HELP** to any message or contact us at (702) 829-0098.
 
+---
 
+## User Accounts
 
-    We use "Personal Data" and "Personal Information" interchangeably unless a law uses a specific term.
+To use the Service, you must create an account with a valid email address. You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account.
 
-- __Service__ refers to the Application.
+You agree to:
 
-- __Service Provider__ means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
-	
+- Provide accurate and complete information when creating your account
+- Keep your account information up to date
+- Notify Us immediately of any unauthorized use of your account
+- Not share your account credentials with others
 
-- __Usage Data__ refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+We reserve the right to suspend or terminate accounts that violate these Terms.
 
+---
 
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+## Acceptable Use
 
+You agree to use the Service only for its intended purpose: personal screen time accountability. You agree not to:
 
+- Add friends as contacts without their knowledge or intent to obtain their consent
+- Attempt to circumvent the consent requirement for SMS messaging
+- Use the Service to harass, spam, or send unsolicited communications
+- Attempt to reverse engineer, decompile, or tamper with the Service
+- Use the Service in violation of any applicable law or regulation
 
-## Collecting and Using Your Personal Data
+---
 
-### Types of Data Collected
+## Friend Consent and SMS Compliance
 
-#### Personal Data
+Nudge requires explicit opt-in consent from any friend before sending them accountability messages. By adding a friend's phone number, you represent that:
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+- You have a legitimate relationship with that person
+- You intend for them to receive a consent request
+- You will not attempt to re-add a friend who has declined or opted out
 
-- Email address
-- First name and last name
-- Phone number
+Adding a friend who has previously replied **STOP** or declined consent is not permitted and is technically blocked by the Service.
 
+---
 
+## Intellectual Property
 
+The Service and all content, features, and functionality are owned by the Company and are protected by applicable intellectual property laws. You may not copy, modify, distribute, or create derivative works based on the Service without Our prior written consent.
 
+---
 
+## Disclaimer of Warranties
 
-#### Usage Data
+The Service is provided "as is" and "as available" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-Usage Data is collected automatically when using the Service.
+We do not warrant that:
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+- The Service will be uninterrupted or error-free
+- SMS messages will be delivered in a timely manner or at all
+- Screen time data reported by Apple's Screen Time framework will be complete or accurate
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device's unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+---
 
-We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
+## Limitation of Liability
 
+To the fullest extent permitted by applicable law, the Company shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Service, including but not limited to loss of data, loss of profits, or damages resulting from undelivered SMS messages.
 
+Our total liability to you for any claim arising out of these Terms or your use of the Service shall not exceed the amount you paid to use the Service in the twelve months preceding the claim (or $10 if you have paid nothing).
 
+---
 
+## Termination
 
-#### Information Collected while Using the Application
+We may suspend or terminate your access to the Service at any time if you violate these Terms or engage in conduct we determine to be harmful to other users or the Service.
 
-While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+You may terminate your account at any time by deleting it through the app. Upon termination, your data will be handled in accordance with our Privacy Policy.
 
-- Information regarding your location
+---
 
+## Changes to These Terms
 
+We may update these Terms from time to time. We will notify you of material changes by posting the updated Terms here and updating the "Last updated" date. Continued use of the Service after changes are posted constitutes acceptance of the updated Terms.
 
-We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+---
 
-You can enable or disable access to this information at any time, through Your Device settings.
+## Governing Law
 
+These Terms are governed by the laws of the State of Utah, United States, without regard to its conflict of law provisions.
 
-
-
-
-### Use of Your Personal Data
-
-The Company may use Personal Data for the following purposes:
-
-- __To provide and maintain our Service__, including to monitor the usage of our Service.
-- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-- __To provide You__ with news, special offers, and general information about other goods, services and events which We offer that are similar to those that you have already purchased or inquired about unless You have opted not to receive such information.
-- __To manage Your requests:__ To attend and manage Your requests to Us.
-
-- __For business transfers:__ We may use Your Personal Data to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
-- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
-
-We may share Your Personal Data in the following situations:
-
-- __With Service Providers:__ We may share Your Personal Data with Service Providers to monitor and analyze the use of our Service,  to contact You.
-- __For business transfers:__ We may share or transfer Your Personal Data in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-- __With Affiliates:__ We may share Your Personal Data with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-- __With business partners:__ We may share Your Personal Data with Our business partners to offer You certain products, services or promotions.
-- __With other users:__ If Our Service offers public areas, when You share Personal Data or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
-- __With Your consent__: We may disclose Your Personal Data for any other purpose with Your consent.
-
-### Retention of Your Personal Data
-
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if We are required to retain Your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
-
-Where possible, We apply shorter retention periods and/or reduce identifiability by deleting, aggregating, or anonymizing data. Unless otherwise stated, the retention periods below are maximum periods ("up to") and We may delete or anonymize data sooner when it is no longer needed for the relevant purpose. We apply different retention periods to different categories of Personal Data based on the purpose of processing and legal obligations:
-
-- Account Information
-    - User Accounts: retained for the duration of your account relationship plus up to 24 months after account closure to handle any post-termination issues or resolve disputes.
-
-- Customer Support Data
-    - Support tickets and correspondence: up to 24 months from the date of ticket closure to resolve follow-up inquiries, track service quality, and defend against potential legal claims
-    - Chat transcripts: up to 24 months for quality assurance and staff training purposes.
-
-- Usage Data
-
-
-    - Application usage statistics: up to 24 months to understand feature adoption and service improvements.
-
-    - Server logs (IP addresses, access times): up to 24 months for security monitoring and troubleshooting purposes.
-
-
-
-Usage Data is retained in accordance with the retention periods described above, and may be retained longer only where necessary for security, fraud prevention, or legal compliance.
-
-We may retain Personal Data beyond the periods stated above for different reasons:
-
-- Legal obligation: We are required by law to retain specific data (e.g., financial records for tax authorities).
-- Legal claims: Data is necessary to establish, exercise, or defend legal claims.
-- Your explicit request: You ask Us to retain specific information.
-- Technical limitations: Data exists in backup systems that are scheduled for routine deletion.
-
-You may request information about how long We will retain Your Personal Data by contacting Us.
-
-When retention periods expire, We securely delete or anonymize Personal Data according to the following procedures:
-
-- Deletion: Personal Data is removed from Our systems and no longer actively processed.
-- Backup retention: Residual copies may remain in encrypted backups for a limited period consistent with our backup retention schedule and are not restored except where necessary for security, disaster recovery, or legal compliance.
-- Anonymization: In some cases, We convert Personal Data into anonymous statistical data that cannot be linked back to You. This anonymized data may be retained indefinitely for research and analytics.
-
-### Transfer of Your Personal Data
-
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from Your jurisdiction.
-
-Where required by applicable law, We will ensure that international transfers of Your Personal Data are subject to appropriate safeguards and supplementary measures where appropriate. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
-
-### Delete Your Personal Data
-
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
-
-Our Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any Personal Data that You have provided to Us.
-
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
-
-### Disclosure of Your Personal Data
-
-#### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
-
-#### Law enforcement
-
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-
-#### Other legal requirements
-
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
-
-### Security of Your Personal Data
-
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Children's Privacy
-
-Our Service does not address anyone under the age of 16. We do not knowingly collect personally identifiable information from anyone under the age of 16. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 16 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
-
-## Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Changes to this Privacy Policy
-
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
-
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+---
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, You can contact us:
+If you have questions about these Terms, contact Us:
 
-
-
-
-- By phone: 7028290098
+- **Phone:** (702) 829-0098
