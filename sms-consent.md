@@ -27,7 +27,7 @@ Consent is collected through a two-step, text-based opt-in:
 1. **The user adds a contact.** Inside the Nudge app, a user enters the name and phone number of a friend they want as an accountability partner.
 2. **The contact receives a one-time consent request.** We send that number a single SMS asking for permission, for example:
 
-   > "Hey, Josh wants your help being more accountable with their screen time. Can we send you updates on their progress? Reply yes or no. You can opt out at any time."
+   > "Hey, Matt wants your help being more accountable with their screen time. Can we send you updates on their progress? Reply yes or no. You can opt out at any time."
 
 3. **The contact must reply to opt in.** No further messages are sent unless the recipient replies **YES**. If the recipient replies **NO**, their number is removed and they receive a confirmation that they will not be contacted again. If the recipient never replies, no additional messages are sent.
 
@@ -40,11 +40,11 @@ Only after a recipient replies **YES** do they begin receiving accountability me
 - **Consent request** — the one-time opt-in message shown above.
 - **Opt-in confirmation** — sent once, after a recipient replies YES:
 
-  > "Thanks for helping Josh with their screen time goals! I'll text you when they need a little encouragement. Reply STOP at any time to opt out."
+  > "Thanks for helping Matt with their screen time goals! I'll text you when they need a little encouragement. Reply STOP at any time to opt out."
 
 - **Accountability notifications ("nudges")** — occasional updates about the user's screen-time progress, for example:
 
-  > "Josh has been on their phone for 47 minutes. Reply 1 to send encouragement, Reply 2 to give them a reality check, or reply with your own message."
+  > "Matt has been on their phone for 47 minutes. Reply 1 to send encouragement, Reply 2 to give them a reality check, or reply with your own message."
 
 Recipients may reply to a nudge to send a short message of encouragement or a reality check back to the Nudge user.
 
