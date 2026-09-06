@@ -26,6 +26,14 @@ The terms of service for using the Nudge application. Covers:
 - Acceptable use policy and friend consent requirements
 - Disclaimers, liability limits, and governing law
 
+### [SMS Messaging & Consent](sms-consent.md)
+
+Describes how Nudge sends text messages and how recipients consent to them. Covers:
+
+- Who receives messages and how numbers are obtained
+- The two-step, text-based (double) opt-in flow
+- Message types, frequency, and opt-out (**STOP**) / help (**HELP**) instructions
+
 ---
 
 ## Contact
